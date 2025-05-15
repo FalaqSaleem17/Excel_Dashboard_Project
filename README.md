@@ -125,3 +125,8 @@ Based on the monthly and categorical analysis of road accident casualties, the f
   - Improved pedestrian infrastructure
   - Smart traffic signals and signage
   - Public awareness programs should be prioritized, especially during daytime, when 73% of accidents occur.
+ 
+## Conclusion
+- The analysis of road accident data from 2021 and 2022 provides valuable insights into patterns of casualties and highlights critical areas for intervention. Key findings indicate that car drivers, urban areas, and single carriageway roads are major contributors to overall casualty figures. Furthermore, the months of October and November emerge as high-risk periods, demanding increased vigilance and targeted safety efforts.
+- By leveraging these insights, stakeholders—including traffic authorities, urban planners, and policymakers—can implement strategic measures to improve road safety. Focused awareness campaigns, infrastructure upgrades, and stricter monitoring during high-risk periods can play a vital role in reducing casualties and enhancing public safety.
+- This data-driven approach ensures that resources are directed where they are most needed, paving the way for smarter, safer, and more responsive road safety initiatives.
