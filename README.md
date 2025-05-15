@@ -66,6 +66,9 @@ A dedicated "Data Analysis" sheet was created to consolidate key insights using 
 
 This structured summary provides a clear, accessible foundation for deeper analysis and informed decision-making.
 
+<img width="960" alt="Data Analysis" src="https://github.com/user-attachments/assets/77329550-44f7-4694-be07-08a7271dffbd" />
+
+
 ## Data Visualization
 **Dashboard Development**
 The final dashboard was built by inserting and customizing pivot charts derived from the corresponding pivot tables, ensuring a clear and visually engaging presentation of insights.
