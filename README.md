@@ -6,6 +6,9 @@ Road Accident Analytics Dashboard
 ## Description
 I've developed a Road Accident Analytics Dashboard in Excel, visualizing 2021 and 2022 accident data. This dashboard provides valuable insights through visualizations, empowering stakeholders to make data-driven decisions for safer roads.
 
+## Tech Stack Used
+Data Download - https://docs.google.com/spreadsheets
+
 ## Key Insights
 📈 Scale of the Issue: 417,883 casualties occurred over the two years, highlighting the urgent need for road safety improvements. 
 
