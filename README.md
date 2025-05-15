@@ -76,7 +76,9 @@ To enhance user experience and interactivity, the following features were integr
 
 The result is a user-friendly, interactive dashboard designed to support quick insights and efficient decision-making.
 
-! [Dashboard1](https://github.com/FalaqSaleem17/Excel_Dashboard_Project/blob/main/Road%20Accident%20Analytics%20Dashboard%201.png)
+<img width="960" alt="Road Accident Analytics Dashboard 1" src="https://github.com/user-attachments/assets/3f3559bf-8703-4944-bd66-5e9950e9cb2d" />
+
+<img width="959" alt="Road Accident Analytics Dashboard 2" src="https://github.com/user-attachments/assets/e2c25d99-cc4c-4062-88d4-969304724a8f" />
 
 ## Key Insights
 📈 Scale of the Issue: 417,883 casualties occurred over the two years, highlighting the urgent need for road safety improvements. 
