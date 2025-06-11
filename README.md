@@ -122,6 +122,7 @@ Based on the monthly and categorical analysis of road accident casualties, the f
 📅 Target High-Risk Months (October & November)
 - The dashboard highlights October and November as peak months for casualties in both years.
 - Traffic authorities and stakeholders should intensify road safety campaigns, enforcement, and monitoring during these periods to mitigate risks.
+
 🚗 Focus on Car Drivers
 -As car drivers account for the majority of casualties, they should be the primary focus for awareness initiatives, including:
   - Road safety workshops and campaigns
