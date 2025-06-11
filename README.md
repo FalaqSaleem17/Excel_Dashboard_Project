@@ -1,5 +1,3 @@
-# Excel_Dashboard_Project
-
 # **Road Accident Analytics Dashboard** 
 
 ## Description
