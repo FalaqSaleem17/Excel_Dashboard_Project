@@ -5,10 +5,10 @@ I've developed a Road Accident Analytics Dashboard in Excel, visualizing 2021 an
 <br><br>
 
 ## Project Overview
-### 1. Title:
+### 1. Title
 Road Accident Analytics Dashboard 
 <br><br>
-### 2. Objective:
+### 2. Objective
 - To develop a comprehensive dashboard that provides insights into road accident data for the years 2021 and 2022, enabling     year-over-year comparisons and detailed analysis across multiple dimensions.
 <br><br>
 ### 3. Problem Statement
