@@ -92,6 +92,7 @@ Secondary KPIs:
 
 ## Data Visualization
 **Dashboard Development**
+
 The final dashboard was built by inserting and customizing pivot charts derived from the corresponding pivot tables, ensuring a clear and visually engaging presentation of insights.
 To enhance user experience and interactivity, the following features were integrated:
 - Slicers and Timelines for dynamic filtering and easy exploration of the data across different dimensions (e.g., year, month, location).
