@@ -155,7 +155,7 @@ Based on the monthly and categorical analysis of road accident casualties, the f
 - Interactive filters for area (urban/rural), year, and accident severity.
 - Pie and bar charts to highlight proportional insights and trends.
  <br><br>
-### 2.Limitations:
+### 2. Limitations:
 - The dashboard is limited to data from 2021 and 2022 only.
 - No predictive analytics or forecasting capabilities are included.
 - The dataset may not cover all regions or include all demographic factors (e.g., age, gender).
