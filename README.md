@@ -61,6 +61,7 @@ Primary KPIs:
 - Total Casualties for the Current Year (2022) and Year-over-Year (YoY) Growth
 - Total Accidents for the Current Year and YoY Growth
 - Total Casualties by Accident Severity (e.g., Fatal, Serious, Slight) for the Current Year and YoY Growth
+
 Secondary KPIs:
 - Total Casualties by Vehicle Type for the Current Year
 - Monthly Casualty Trends:
