@@ -5,17 +5,14 @@ I've developed a Road Accident Analytics Dashboard in Excel, visualizing 2021 an
 <br><br>
 
 ## Project Overview
-### 1. Title
-Road Accident Analytics Dashboard 
-<br><br>
-### 2. Objective
+### 1. Objective
 - To develop a comprehensive dashboard that provides insights into road accident data for the years 2021 and 2022, enabling     year-over-year comparisons and detailed analysis across multiple dimensions.
 <br><br>
-### 3. Problem Statement
+### 2. Problem Statement
 - Road accidents continue to be a significant public safety concern, leading to high numbers of casualties annually. However, analyzing and deriving insights from the data related to accident types, severities, road conditions, and vehicle categories is often complex due to the lack of consolidated, interactive visualization tools. Stakeholders lack a clear and comprehensive way to identify patterns and high-risk areas, which hinders effective decision-making and implementation of preventive measures.
 - This project addresses the need for an intuitive and interactive dashboard that summarizes casualty data by severity, vehicle type, road conditions, and area types (urban/rural), offering year-wise and monthly trends for comparative insights.
 <br><br>
-### 4. Tools
+### 3. Tools
 - Micosoft Excel
 <br><br>
 
